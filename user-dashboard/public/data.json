@@ -1,0 +1,13 @@
+{
+  "user": {
+    "name": "Yashi Srivastava",
+    "email": "yashi@example.com",
+   "image": "https://randomuser.me/api/portraits/women/75.jpg"
+
+  },
+  "tasks": [
+    { "id": 1, "title": "Submit resume", "completed": false },
+    { "id": 2, "title": "Review assignment", "completed": true },
+    { "id": 3, "title": "Update LinkedIn profile", "completed": false }
+  ]
+}
